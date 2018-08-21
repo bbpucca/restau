@@ -1,24 +1,22 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>startup-foodtech</h1> 
 
-Things you may want to cover:
+lien: https://vast-shelf-67359.herokuapp.com/
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+<h2>Utilisation en local</h2>
 
-* Database creation
 
-* Database initialization
+> <p>git clone https://github.com/bbpucca/restau.git
 
-* How to run the test suite
+> cd restau
 
-* Services (job queues, cache servers, search engines, etc.)
+> bundle install 
 
-* Deployment instructions
+> rails db:create
 
-* ...
+
+> rails server  
+
+Go sur http://localhost:3000/

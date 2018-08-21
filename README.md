@@ -2,11 +2,6 @@
 <h1>startup-foodtech</h1> https://vast-shelf-67359.herokuapp.com/
 
 
-<h2>Version de Ruby :</h2>
-
-Ruby version : 2.5.1
-
-Rails version : 5.2.0
 
 <h2>Utilisation en local</h2>
 
